@@ -1,9 +1,7 @@
 # Mjolnir (In Progress)
 **The Ban Hammer with a Stopwatch**
 
-Mjolnir is a Discord bot that tracks playtime for a target game (default: *League of Legends*)  
-and enforces configurable rules with style — milestone announcements, opt-in consent,  
-and an admin-controlled ON/OFF switch.
+Mjolnir is a Discord bot that tracks playtime for a target game (default: *League of Legends*) and enforces configurable rules with style — milestone announcements, opt-in consent, and an admin-controlled ON/OFF switch.
 
 ---
 
