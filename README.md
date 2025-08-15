@@ -21,8 +21,8 @@ and an admin-controlled ON/OFF switch.
 
 ### 1) Clone & Install
 ```bash
-git clone https://github.com/yourusername/meowner.git
-cd meowner
+git clone https://github.com/yourusername/Mjolnir.git
+cd Mjolnir
 python -m venv .venv && source .venv/bin/activate
 pip install -U pip
 pip install -e ".[dev]"
